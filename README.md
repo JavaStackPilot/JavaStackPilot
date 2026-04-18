@@ -9,7 +9,6 @@ I'm a **Java Backend Developer** passionate about building scalable REST APIs an
 * **Tools:** Git, Maven, Postman
 
 ### 🚀 Featured Projects
-* **[Todo List REST API](https://github.com/JavaStackPilot/todo)** – A full-featured backend for managing tasks.
 * **[QR Code Generator API](https://github.com/JavaStackPilot/qrcode-generator-api)** – A microservice to generate QR codes on the fly.
 * **[Login & Registration System](https://github.com/JavaStackPilot/loginAndRegistration)** – Secure user authentication implementing MySQL and Spring Security.
 
