@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm JavaStackPilot 👋 
 
-<!--
-**JavaStackPilot/JavaStackPilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Java Backend Developer** passionate about building scalable REST APIs and exploring the Spring ecosystem. I enjoy turning complex problems into clean, maintainable code.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** Java (Core & Advanced)
+* **Frameworks:** Spring Boot, Spring Security
+* **Databases:** MySQL
+* **Tools:** Git, Maven, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **[Todo List REST API](https://github.com/JavaStackPilot/todo)** – A full-featured backend for managing tasks.
+* **[QR Code Generator API](https://github.com/JavaStackPilot/qrcode-generator-api)** – A microservice to generate QR codes on the fly.
+* **[Login & Registration System](https://github.com/JavaStackPilot/loginAndRegistration)** – Secure user authentication implementing MySQL and Spring Security.
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavaStackPilot&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me
+* **Twitter/X:** [@TheStackPilot](https://x.com/TheStackPilot)
+* **Location:** India 🇮🇳
