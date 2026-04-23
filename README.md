@@ -11,7 +11,7 @@ I'm a **Java Backend Developer** passionate about building scalable REST APIs an
 ### 🚀 Featured Projects
 * **[QR Code Generator API](https://github.com/JavaStackPilot/qrcode-generator-api)** – A microservice to generate QR codes on the fly.
 * **[Login & Registration System](https://github.com/JavaStackPilot/loginAndRegistration)** – Secure user authentication implementing MySQL and Spring Security.
-* **[e-commerce API using CRUD Operations] (https://github.com/JavaStackPilot/e-commerce)** 
+* [e-commerce API using Basic CRUD Operations](https://github.com/JavaStackPilot/e-commerce) – A RESTful service managing product catalogs and transactions using CRUD operations.
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavaStackPilot&show_icons=true&theme=radical)
