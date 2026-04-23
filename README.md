@@ -14,7 +14,7 @@ I'm a **Java Backend Developer** passionate about building scalable REST APIs an
 * [e-commerce API using Basic CRUD Operations](https://github.com/JavaStackPilot/e-commerce) – A RESTful service managing product catalogs and transactions using CRUD operations.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavaStackPilot&show_icons=true&theme=radical)
+[![TheStackPilot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheStackPilot&show_icons=true&theme=radical&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
